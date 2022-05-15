@@ -1,0 +1,31 @@
+body {
+  background: url("https://p2.piqsels.com/preview/970/219/684/abstract-backdrop-background-field.jpg");
+}
+
+.tabel1 {
+  font-family: sans-serif;
+  color: #111010;
+  border-collapse: collapse;
+  width: 50%;
+  margin-top: 50px;
+}
+.td1 {
+  font-family: sans-serif;
+  color: #111010;
+  border-collapse: collapse;
+  width: 50%;
+  margin-top: 50px;
+}
+
+.tabel1 tr th {
+  background: #2480a5;
+  color: #ffffff;
+  font-weight: normal;
+}
+
+.tabel1 td {
+  padding: 8px 20px;
+  text-align: center;
+  background: #ffffff;
+  color: #111010;
+}
